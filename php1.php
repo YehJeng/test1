@@ -1,2 +1,5 @@
-<?php
-phpinfo();
+<html>
+  <body>
+    <a href=""bithub.com">
+  </body>
+</html>
